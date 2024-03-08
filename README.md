@@ -6,13 +6,13 @@ I'm [Your Name], a [Your Profession/Role] passionate about [Your Interests/Speci
 
 ### About Me
 
-- 🔭 I’m currently working on [Current Projects or Focus Areas].
-- 🌱 I’m currently learning [Technologies or Skills You're Learning].
+- 🔭 I’m currently working on an Instant Messenger Social Platform
+- 🌱 I’m currently learning Swift ![image](https://github.com/stevenfmentzer/stevenfmentzer/assets/60716098/c4c8c7da-0f08-4f6c-ba46-c79261ab9a29)
 - 👯 I’m looking to collaborate on [Types of Projects or Areas of Interest].
 - 🤔 I’m looking for help with [Specific Issues or Challenges].
 - 💬 Ask me about [Your Areas of Expertise or Interest].
 - 📫 How to reach me: [Your Contact Information or Social Media Handles].
-- 😄 Pronouns: [Your Pronouns].
+- 😄 Pronouns: he/they/them
 - ⚡ Fun fact: [Interesting Fact About Yourself].
 
 ### My Interests
