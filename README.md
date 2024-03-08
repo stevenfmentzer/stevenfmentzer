@@ -7,7 +7,7 @@ I'm [Your Name], a [Your Profession/Role] passionate about [Your Interests/Speci
 ### About Me
 
 - 🔭 I’m currently working on an Instant Messenger Social Platform
-- 🌱 I’m currently learning Swift ![image](https://github.com/stevenfmentzer/stevenfmentzer/assets/60716098/c4c8c7da-0f08-4f6c-ba46-c79261ab9a29 width='25')
+- 🌱 I’m currently learning Swift ![image](https://github.com/stevenfmentzer/stevenfmentzer/assets/60716098/f3282446-0686-4c2c-aa7f-657580b7b995.png 25x25)
 - 👯 I’m looking to collaborate on [Types of Projects or Areas of Interest].
 - 🤔 I’m looking for help with [Specific Issues or Challenges].
 - 💬 Ask me about [Your Areas of Expertise or Interest].
