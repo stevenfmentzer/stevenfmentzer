@@ -1,22 +1,20 @@
-# Steven Mentzer
+# Steven Mentzer 
 
 ## Hi there! 👋
 
-I'm Steven 'Ven', a full stack engineer. Welcome to my GitHub profile!
+I'm Steven 'Ven' (he/him they/them) a full stack engineer. Welcome to my GitHub profile!
 
 ### About Me
 
-- 🔭 I’m currently working on an Instant Messenger Social Platform
-- 🌱 I’m currently learning Swift
-- 👯 I’m looking to collaborate on [Types of Projects or Areas of Interest].
-- 🤔 I’m looking for help with [Specific Issues or Challenges].
-- 😄 Pronouns: he/him they/them
+- 🔭 I’m currently working on a Messenger Social Platform
+- 🌱 I’m currently learning Swift and Mobile App Design
+- 👯 I’m looking to collaborate on new and creative projects!
 
 ### My Interests
 
-- 🏋🏼 Weightlifting, Fitness, Outdoors
+- 🏋🏼 Weightlifting & Fitness
 - 🏳️‍🌈 Queer History, Sociology, Culture
-- 🧩 Board Games and Puzzles
+- 🧩 Board Games & Puzzles
 
 ### Technologies I Work With
 
@@ -59,4 +57,3 @@ Here are some of the projects I'm proud of:
 ### Let's Connect!
 
 Feel free to reach out and connect with me. I'm always open to interesting conversations and collaboration opportunities!
-You can customize this template according to your preferences, adding or removing sections as needed. Once you're done, you can simply create a new file named README.md in the root of your GitHub profile repository and paste the content into it. This will be displayed on your GitHub profile for visitors to see.
