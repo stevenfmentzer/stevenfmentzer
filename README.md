@@ -17,9 +17,9 @@ I'm [Your Name], a [Your Profession/Role] passionate about [Your Interests/Speci
 
 ### My Interests
 
-- [Interest 1]
-- [Interest 2]
-- [Interest 3]
+- 🏋🏼 Weightlifting, Fitness, Outdoors
+- 🏳️‍🌈 Queer History, Sociology, Culture
+- 🧩 Board Games and Puzzles
 
 ### Technologies I Work With
 
