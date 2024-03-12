@@ -23,11 +23,13 @@ I'm [Your Name], a [Your Profession/Role] passionate about [Your Interests/Speci
 
 ### Technologies I Work With
 
-- Programming Languages: [List of Languages]
-- Frontend: [List of Frontend Technologies/Frameworks]
-- Backend: [List of Backend Technologies/Frameworks]
-- Databases: [List of Databases]
-- Tools & Technologies: [List of Other Tools and Technologies]
+- Programming Languages: JavaScript (ES6) • Python • HTML/CSS • Swift 
+- Frontend: React • Semantic UI • Bootstrap
+- Backend: Flask • Express.js (Node.js)
+- Databases: MySQL • SQLite • PostgreSQL
+- Tools & Technologies: apscheduler • datetime • Git
+- ORM (Object-Relational Mapping): SQLAlchemy (Python) • Sequelize (JavaScript)
+- Testing Frameworks: Jest (JavaScript) • Pytest (Python)
 
 ### Projects
 
