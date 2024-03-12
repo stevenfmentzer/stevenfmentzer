@@ -1,19 +1,16 @@
-# Steven-Mentzer
+# Steven Mentzer
 
 ## Hi there! 👋
 
-I'm [Your Name], a [Your Profession/Role] passionate about [Your Interests/Specializations]. Welcome to my GitHub profile!
+I'm Steven 'Ven', a full stack engineer. Welcome to my GitHub profile!
 
 ### About Me
 
 - 🔭 I’m currently working on an Instant Messenger Social Platform
-- 🌱 I’m currently learning Swift ![image](https://github.com/stevenfmentzer/stevenfmentzer/assets/60716098/f3282446-0686-4c2c-aa7f-657580b7b995.png 25x25)
+- 🌱 I’m currently learning Swift
 - 👯 I’m looking to collaborate on [Types of Projects or Areas of Interest].
 - 🤔 I’m looking for help with [Specific Issues or Challenges].
-- 💬 Ask me about [Your Areas of Expertise or Interest].
-- 📫 How to reach me: [Your Contact Information or Social Media Handles].
-- 😄 Pronouns: he/they/them
-- ⚡ Fun fact: [Interesting Fact About Yourself].
+- 😄 Pronouns: he/him they/them
 
 ### My Interests
 
@@ -47,10 +44,9 @@ Here are some of the projects I'm proud of:
 
 ### Get in Touch
 
-- LinkedIn: [Your LinkedIn Profile URL]
-- Twitter: [Your Twitter Profile URL]
-- Email: [Your Email Address]
-- Personal Website: [Your Personal Website URL]
+- LinkedIn: https://www.linkedin.com/in/steven-mentzer-8b141a67/
+- Email: stevenfmentzer@gmail.com
+- Personal Website: ⏳ Coming Soon ⏳
 
 ### Stats
 
