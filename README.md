@@ -30,15 +30,11 @@ I'm Steven 'Ven' (he/him they/them) a full stack engineer. Welcome to my GitHub 
 
 Here are some of the projects I'm proud of:
 
-1. **[Project Name]** - Brief description of the project.
-   - [Link to Repository]
-   - [Link to Live Demo (if applicable)]
-   - [Technologies Used]
+1. **Here I.M.** - A new messaging app made to promote interaction with people you haven't recently chatted with. 
+   - https://github.com/stevenfmentzer/phase-5-project
 
-2. **[Project Name]** - Brief description of the project.
-   - [Link to Repository]
-   - [Link to Live Demo (if applicable)]
-   - [Technologies Used]
+2. **CreditScape** - Financial planner and payment calendar
+   - https://github.com/stevenfmentzer/phase-4-project
 
 ### Get in Touch
 
